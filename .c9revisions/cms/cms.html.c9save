@@ -1,0 +1,2 @@
+{"ts":1378926032045,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"<head>\n  <title>cms</title>\n</head>\n\n<body>\n  {{> hello}}\n</body>\n\n<template name=\"hello\">\n  <h1>Hello World!</h1>\n  {{greeting}}\n  <input type=\"button\" value=\"Click\" />\n</template>\n"]],"start1":0,"start2":0,"length1":0,"length2":182}]],"length":182}
+{"contributors":[],"silentsave":false,"ts":1378926199969,"patch":[[{"diffs":[[0,"llo "],[-1,"World"],[1,"BITCHES"],[0,"!</h"]],"start1":99,"start2":99,"length1":13,"length2":15}]],"length":184,"saved":false}
